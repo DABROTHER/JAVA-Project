@@ -1,2 +1,2 @@
 # JAVA-Project
-in this project name of learning software provide a many options in one windows like notepad, some games.
+in this project name media player created by Amit Kumar Kushwaha. Mail-id:-akkushwaha53@gmail.com
